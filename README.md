@@ -17,4 +17,5 @@ Backend for json api for nulldata test
 - execute in terminal: ```php artisan migrate```
 
 ### test 
-- postman or any other client
+- check api script in routes for endpoints
+- use postman or any other client
